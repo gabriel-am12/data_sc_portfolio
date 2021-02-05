@@ -15,6 +15,7 @@ Here I put links to projects I have done or am doing, mainly related to data sci
 * [LinkedIn](https://www.linkedin.com/in/gabriel-augusto-a397981a8)
 
 ## Projetos:
+* **Airbnb Data Analysis - Dublin:** https://bit.ly/3rp9g1L 
 
 
 ---
